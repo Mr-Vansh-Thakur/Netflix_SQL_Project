@@ -19,3 +19,9 @@ The project focuses on exploring content types, ratings, release years, countrie
 - Identify actors with the highest number of appearances.
 - Categorize content based on specific keywords.
 - Solve real-world business problems using SQL queries.
+
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset:
+
+- Dataset Link: [Movies Dataset]{https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download}
