@@ -1,2 +1,2 @@
 # Netflix_SQL_Project
-{Netflix LOGO}(https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+{Netflix LOGO}(https://github.com/Mr-Vansh-Thakur/Netflix_SQL_Project/blob/main/logo.png)
